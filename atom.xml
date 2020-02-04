@@ -5,9 +5,9 @@
   <subtitle>“其实我还没想好任何确切的地点，只是去我该去的地方”</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://shuibuzhao.xyz/"/>
   <updated>2020-02-04T10:25:00.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://shuibuzhao.xyz/</id>
   
   <author>
     <name>ZhangYun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>一方</title>
-    <link href="http://yoursite.com/%E4%B8%80%E6%96%B9-2020-02-04/2020/02/04/"/>
-    <id>http://yoursite.com/%E4%B8%80%E6%96%B9-2020-02-04/2020/02/04/</id>
+    <link href="http://shuibuzhao.xyz/%E4%B8%80%E6%96%B9-2020-02-04/2020/02/04/"/>
+    <id>http://shuibuzhao.xyz/%E4%B8%80%E6%96%B9-2020-02-04/2020/02/04/</id>
     <published>2020-02-04T10:25:00.000Z</published>
     <updated>2020-02-04T10:25:00.000Z</updated>
     
@@ -35,7 +35,7 @@
     </summary>
     
     
-      <category term="闲谈" scheme="http://yoursite.com/categories/%E9%97%B2%E8%B0%88/"/>
+      <category term="闲谈" scheme="http://shuibuzhao.xyz/categories/%E9%97%B2%E8%B0%88/"/>
     
     
   </entry>
