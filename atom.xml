@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shuibuzhao.xyz/"/>
-  <updated>2020-02-04T10:25:00.000Z</updated>
+  <updated>2020-02-05T13:03:40.000Z</updated>
   <id>http://shuibuzhao.xyz/</id>
   
   <author>
@@ -17,20 +17,50 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="http://shuibuzhao.xyz/test/2020/02/05/"/>
+    <id>http://shuibuzhao.xyz/test/2020/02/05/</id>
+    <published>2020-02-05T13:03:40.000Z</published>
+    <updated>2020-02-05T13:03:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>梦里出现的人，醒来时就该去见他，生活就是那么简单。</p><p>——《新桥恋人》</p></blockquote><p><strong>活着就必须要做点什么，请好好努力。</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;梦里出现的人，醒来时就该去见他，生活就是那么简单。&lt;/p&gt;
+&lt;p&gt;——《新桥恋人》&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;活着就必须要做点什么，请好好努力。&lt;/strong&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="闲谈" scheme="http://shuibuzhao.xyz/categories/%E9%97%B2%E8%B0%88/"/>
+    
+    
+      <category term="测试" scheme="http://shuibuzhao.xyz/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一方</title>
     <link href="http://shuibuzhao.xyz/%E4%B8%80%E6%96%B9-2020-02-04/2020/02/04/"/>
     <id>http://shuibuzhao.xyz/%E4%B8%80%E6%96%B9-2020-02-04/2020/02/04/</id>
     <published>2020-02-04T10:25:00.000Z</published>
     <updated>2020-02-04T10:25:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="活着其实很好"><a href="#活着其实很好" class="headerlink" title="活着其实很好"></a>活着其实很好</h3><p>再吃一颗苹果。</p>]]></content>
+    <content type="html"><![CDATA[<h3 id="活着其实很好，再吃一颗苹果。"><a href="#活着其实很好，再吃一颗苹果。" class="headerlink" title="活着其实很好，再吃一颗苹果。"></a>活着其实很好，再吃一颗苹果。</h3>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;活着其实很好&quot;&gt;&lt;a href=&quot;#活着其实很好&quot; class=&quot;headerlink&quot; title=&quot;活着其实很好&quot;&gt;&lt;/a&gt;活着其实很好&lt;/h3&gt;&lt;p&gt;再吃一颗苹果。&lt;/p&gt;
-
+        &lt;h3 id=&quot;活着其实很好，再吃一颗苹果。&quot;&gt;&lt;a href=&quot;#活着其实很好，再吃一颗苹果。&quot; class=&quot;headerlink&quot; title=&quot;活着其实很好，再吃一颗苹果。&quot;&gt;&lt;/a&gt;活着其实很好，再吃一颗苹果。&lt;/h3&gt;
       
     
     </summary>
