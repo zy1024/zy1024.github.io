@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shuibuzhao.xyz/"/>
-  <updated>2020-02-05T13:03:40.000Z</updated>
+  <updated>2020-02-06T15:24:42.000Z</updated>
   <id>http://shuibuzhao.xyz/</id>
   
   <author>
@@ -17,81 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://shuibuzhao.xyz/test/2020/02/05/"/>
-    <id>http://shuibuzhao.xyz/test/2020/02/05/</id>
-    <published>2020-02-05T13:03:40.000Z</published>
-    <updated>2020-02-05T13:03:40.000Z</updated>
+    <title>建站随感</title>
+    <link href="http://shuibuzhao.xyz/%E5%BB%BA%E7%AB%99%E9%9A%8F%E6%84%9F/2020/02/06/"/>
+    <id>http://shuibuzhao.xyz/%E5%BB%BA%E7%AB%99%E9%9A%8F%E6%84%9F/2020/02/06/</id>
+    <published>2020-02-06T15:24:42.000Z</published>
+    <updated>2020-02-06T15:24:42.000Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>梦里出现的人，醒来时就该去见他，生活就是那么简单。</p><p>——《新桥恋人》</p></blockquote><p><strong>活着就必须要做点什么，请好好努力。</strong></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;梦里出现的人，醒来时就该去见他，生活就是那么简单。&lt;/p&gt;
-&lt;p&gt;——《新桥恋人》&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;活着就必须要做点什么，请好好努力。&lt;/strong&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="闲谈" scheme="http://shuibuzhao.xyz/categories/%E9%97%B2%E8%B0%88/"/>
-    
-    
-      <category term="测试" scheme="http://shuibuzhao.xyz/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://shuibuzhao.xyz/test%20-%20%E5%89%AF%E6%9C%AC/2020/02/05/"/>
-    <id>http://shuibuzhao.xyz/test%20-%20%E5%89%AF%E6%9C%AC/2020/02/05/</id>
-    <published>2020-02-05T13:03:40.000Z</published>
-    <updated>2020-02-05T13:03:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>梦里出现的人，醒来时就该去见他，生活就是那么简单。</p><p>——《新桥恋人》</p></blockquote><p><strong>活着就必须要做点什么，请好好努力。</strong></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>折腾了两天，算是差不多完成了绝大部分。今天把博客托管到coding上，又照网上的教程开了Cloudflare提供的CDN服务，测试的时候感觉快了不少，挺开心的，虽然我到现在都还没弄懂CDN的原理。</p><p>这几天真的投入了不少的时间在这个博客上面，不过毕竟也出不了门，无聊的日子里找点活干也不错。在这个过程里我最经常想到的一句话就是 “前人栽树后人乘凉” ，连我这种不会前端的都能靠着这些框架和插件瞎鼓捣个玩意出来。单纯从这个角度和立场来说的话，我真的爱死开源了。</p><p>按照一直以来对自己的观察，我觉得自己是一个三分钟热热热热热度的人。我特别容易在提出一个目标或者做一件事的初期对它赋予我所有的热情，夸张一点可能每天除了睡觉之外其余的时间脑子里都在想或者做关于它的东西，甚至想到失眠，就是一种 ”明明知道现在应该做别的事情但是大脑就是停不下来“ 的状态；这样的状态一般会持续一周到两周的时间，之后如果我还没有一些实质性的进展，这股气就泄了。</p><p>我不知道别人是不是也这样，但我其实不喜欢自己的这种性格。我还是认为很多时候一件事情应该慢慢来做，每天完成应该完成的工作量。像我现在这样的状态，如果在那段激情期里做完了倒也还可以，如果做不完，后面甚至碰都不想碰。最重要的是，特别容易给共事的人很大的压力。去年一整年我跟郭B有过两次项目合作的经历，第一次在我 “特别激情” 和他 “有点激情” 的状态下在我的 “激情期” 内勉强完成，第二次呢，就意料之中地崩了。</p><p>我总是这样。事后再去反省自己，我什么问题都能看清楚；但在发生的那个时间段，我是那种最不可理喻的盲目。</p><p>知道自己毛病很多，但是目前为止改变的很少很少，很多问题我都不知道从哪里入手。算了，就先这样吧，也许永远改不掉了，反正有很大的可能性 “我解决自己身上的问题” 这个过程也会是三分钟热度。就像我也不确定这个博客能更新到什么时候。索性就走一步看一步吧。</p><p>就像我最近经常用的那句话一样，“其实我还没想好任何确切的地点，只是去我该去的地方。”</p><p>最不可理喻的盲目，也没什么不好。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;blockquote&gt;
-&lt;p&gt;梦里出现的人，醒来时就该去见他，生活就是那么简单。&lt;/p&gt;
-&lt;p&gt;——《新桥恋人》&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;活着就必须要做点什么，请好好努力。&lt;/strong&gt;&lt;/p&gt;
-
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
     
     
-      <category term="闲谈" scheme="http://shuibuzhao.xyz/categories/%E9%97%B2%E8%B0%88/"/>
+      <category term="随感" scheme="http://shuibuzhao.xyz/categories/%E9%9A%8F%E6%84%9F/"/>
     
-    
-      <category term="测试" scheme="http://shuibuzhao.xyz/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>一方</title>
-    <link href="http://shuibuzhao.xyz/%E4%B8%80%E6%96%B9-2020-02-04/2020/02/04/"/>
-    <id>http://shuibuzhao.xyz/%E4%B8%80%E6%96%B9-2020-02-04/2020/02/04/</id>
+    <link href="http://shuibuzhao.xyz/%E4%B8%80%E6%96%B9/2020/02/04/"/>
+    <id>http://shuibuzhao.xyz/%E4%B8%80%E6%96%B9/2020/02/04/</id>
     <published>2020-02-04T10:25:00.000Z</published>
     <updated>2020-02-04T10:25:00.000Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="活着其实很好，再吃一颗苹果。"><a href="#活着其实很好，再吃一颗苹果。" class="headerlink" title="活着其实很好，再吃一颗苹果。"></a>活着其实很好，再吃一颗苹果。</h3>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="活着其实很好，再吃一颗苹果。"><a href="#活着其实很好，再吃一颗苹果。" class="headerlink" title="活着其实很好，再吃一颗苹果。"></a>活着其实很好，再吃一颗苹果。</h3>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;活着其实很好，再吃一颗苹果。&quot;&gt;&lt;a href=&quot;#活着其实很好，再吃一颗苹果。&quot; class=&quot;headerlink&quot; title=&quot;活着其实很好，再吃一颗苹果。&quot;&gt;&lt;/a&gt;活着其实很好，再吃一颗苹果。&lt;/h3&gt;
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
@@ -99,8 +61,6 @@
     
       <category term="闲谈" scheme="http://shuibuzhao.xyz/categories/%E9%97%B2%E8%B0%88/"/>
     
-    
-      <category term="闲谈" scheme="http://shuibuzhao.xyz/tags/%E9%97%B2%E8%B0%88/"/>
     
   </entry>
   
