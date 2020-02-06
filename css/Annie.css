@@ -1041,7 +1041,7 @@ template {
 }
 footer {
   font-family: "Times New Roman", Times, serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 2;
   color: #555;
   background-color: #222;
@@ -3729,4 +3729,83 @@ blockquote footer cite:before {
   .investment-container .investment-header .investment-title-2>span a:first-child {
     display: none;
   }
+}
+body {
+  font-size: 1.2rem;
+  line-height: 55px;
+}
+#navigation-show > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1) {
+  font-size: 1.5rem;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 0px;
+  letter-spacing: 0em;
+}
+#navigation-show > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1) {
+  font-size: 1.5rem;
+}
+#navigation-show > ul:nth-child(1) > li:nth-child(3) > a:nth-child(1) {
+  font-size: 1.5rem;
+}
+#navigation-show > ul:nth-child(1) > li:nth-child(4) > a:nth-child(1) {
+  font-size: 1.5rem;
+  line-height: 48px;
+}
+#navigation-show > ul:nth-child(1) > li:nth-child(5) > a:nth-child(1) {
+  font-size: 1.5rem;
+}
+.copyright > p:nth-child(1) {
+  line-height: 39px;
+}
+#zh_click_s {
+  font-size: 20px;
+}
+#zh_click_t {
+  font-size: 20px;
+}
+.icon-circle-up {
+  font-size: 2.6rem;
+  line-height: 0;
+  letter-spacing: 0.099em;
+  font-weight: 300;
+}
+div.post:nth-child(2) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1) {
+  font-size: 24px;
+  line-height: 36px;
+}
+.copyright > p:nth-child(3) {
+  letter-spacing: 0px;
+  font-style: normal;
+}
+.nav-body > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1) {
+  font-size: 3rem;
+}
+.nav-body > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1) {
+  font-size: 2rem;
+}
+.nav-body > ul:nth-child(1) > li:nth-child(3) > a:nth-child(1) {
+  font-size: 2rem;
+}
+.nav-body > ul:nth-child(1) > li:nth-child(4) > a:nth-child(1) {
+  font-size: 2rem;
+}
+.nav-body > ul:nth-child(1) > li:nth-child(5) > a:nth-child(1) {
+  font-size: 2rem;
+}
+#global-social > li:nth-child(1) > a:nth-child(1) {
+  font-size: 2rem;
+}
+#global-social > li:nth-child(2) > a:nth-child(1) {
+  font-size: 2rem;
+}
+#global-social > li:nth-child(3) > a:nth-child(1) {
+  font-size: 2rem;
+}
+#global-social > li:nth-child(4) > a:nth-child(1) {
+  font-size: 2rem;
+  font-weight: 400;
+}
+.icon-douban {
+  font-weight: 400;
+  letter-spacing: 0em;
 }
